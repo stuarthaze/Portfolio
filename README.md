@@ -5,6 +5,13 @@
 
 ## Overview of projects
 
+## 1. Deep Learning
+
+### Neural Style Transfer
+<img src="images/BigBen.jpg" height="50">
+This app was based on an assignment in the Coursera deep learning specialization on convolutional networks. The neural network outputs activations are a series of  which takes a series of activations 
+
+
 You can use the [editor on GitHub](https://github.com/stuarthaze/stuarthaze.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
