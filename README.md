@@ -8,8 +8,7 @@
 ## 1. Deep Learning
 
 ### Neural Style Transfer
-<img src="images/BigBen.jpg" height="80">  
-<img src="The_Great_Wave_off_Kanagawa.jpg" height="80">
+<img src="images/BigBen.jpg" height="80">  <img src="images/The_Great_Wave_off_Kanagawa.jpg" height="80">
 
 This app was based on an assignment in the Coursera deep learning specialization on convolutional networks. The neural network outputs activations are a series of  which takes a series of activations 
 
