@@ -1,7 +1,7 @@
 # Danger! Work in progress!
 
 # About me
-
+![Image](images/Profile_pic.jpg)
 
 ## Overview of projects
 
