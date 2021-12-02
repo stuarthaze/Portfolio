@@ -1,3 +1,4 @@
+<img src="images/danger.png">
 # Danger! Work in progress!
 
 # About me
