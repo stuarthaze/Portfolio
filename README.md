@@ -16,5 +16,5 @@ The code is available [here](https://github.com/stuarthaze/StyleTransferApp)
 ## Statistics
 ### Sweets selection
 Does this distribution represent an expected outcome of randomly selected sweets?  
-<img src="../Quality_Street/Sweet_selection.jpg" height="110">  
+<img src="../Quality_Street/Sweet_selection.jpg" width="200">  
 The problem is explained here: [Project page](https://stuarthaze.github.io/Quality_Street)
