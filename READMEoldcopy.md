@@ -8,7 +8,7 @@
 ### Neural Style-Transfer App
 [Link -> Github repository](https://github.com/stuarthaze/StyleTransferApp)
 
-<img src="images/NeuralArtStyleTransfer.png"> 
+<img src="images/BigBen.jpg" height="110">  <img src="images/The_Great_Wave_off_Kanagawa.jpg" height="110"> <img src="images/StyleMerged_BB_Wave.jpeg" height="110"> 
 
 This app was based on an assignment in the Coursera deep learning specialization. It uses a pre-trained VGG-19 convolutional neural network to merge the content of one image with the style of a second image. Gradient descent is used to optimize the pixels of the generated image. 
 
