@@ -6,7 +6,7 @@
 ***
 ## Deep Learning
 ### Neural Style-Transfer App
-#### [<Github repository>](https://github.com/stuarthaze/StyleTransferApp)
+#### [Github repository](https://github.com/stuarthaze/StyleTransferApp)
 
 <img src="images/BigBen.jpg" height="110">  <img src="images/The_Great_Wave_off_Kanagawa.jpg" height="110"> <img src="images/StyleMerged_BB_Wave.jpeg" height="110"> 
 
@@ -17,7 +17,7 @@ The app was built using streamlit and allows the user to modify the hyper parame
 ***
 ## Statistics
 ### Sweets selection
-#### [<Project page>](https://stuarthaze.github.io/Quality_Street)
+#### [Project page](https://stuarthaze.github.io/Quality_Street)
 Does this distribution represent an expected outcome of randomly selected sweets?  
 <img src="../Quality_Street/Sweet_selection.jpg" width="250">  
 The problem is explained here: 
