@@ -5,9 +5,8 @@
 #<img src="images/Profile_pic_small.jpeg" width="200"> 
 
 ## Overview of projects
-
+***
 ## 1. Deep Learning
-
 ### Neural Style-Transfer App
 <img src="images/BigBen.jpg" height="110">  <img src="images/The_Great_Wave_off_Kanagawa.jpg" height="110"> <img src="images/StyleMerged_BB_Wave.jpeg" height="110"> 
 
@@ -15,5 +14,9 @@ This app was based on an assignment in the Coursera deep learning specialization
 
 The code is available [here](https://github.com/stuarthaze/StyleTransferApp)
 
+***
 ## 2. Statistics
 ### Sweets selection
+Does this selection represent an expected outcome of randomly picking sweets?
+<img src="../Quality_Street/Sweet_selection.jpg" height="110"> 
+The problem is explained here: [Project page](https://stuarthaze.github.io/Quality_Street)
