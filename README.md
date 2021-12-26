@@ -1,5 +1,4 @@
-<img src="images/danger.png">
-# Danger! Work in progress!
+<img src="images/danger.png" width=200> Danger! Work in progress!
 
 # About me
 ***
