@@ -2,6 +2,7 @@
 # Danger! Work in progress!
 
 # About me
+<img src="images/Profile_pic.jpeg" width=200>
 
 ***
 ## Deep Learning
