@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td> <img src="images/Profile_pic.jpeg" width=200> </td>
+    <td> <img src="images/Profile_pic.jpeg" width=300> </td>
     <td>Welcome to my portfolio. This is an eclectic selection of data science projects that I have been working on, some of which I developed in academia, some adapted from studying machine learning, and others just out of interest.
     </td>
   </tr>
@@ -18,7 +18,7 @@
 [Link -> Github repository](https://github.com/stuarthaze/StyleTransferApp)  
 This app was based on an assignment in the Coursera deep learning specialization. It uses a pre-trained VGG-19 convolutional neural network to merge the content of one image with the style of a second image. Gradient descent is used to optimize the pixels of the generated image. 
 
-<img src="images/NeuralArtStyleTransfer.png" width=300> 
+<img src="images/NeuralArtStyleTransfer.png" width=500> 
 
 The app was built using streamlit and allows the user to modify the hyper parameters such as the ratio of content:style, learning rate and number of training epochs.
  
@@ -30,7 +30,6 @@ The app was built using streamlit and allows the user to modify the hyper parame
 Does this distribution represent an expected outcome of randomly selected sweets?  
 <img src="../Quality_Street/Sweet_selection.jpg" height="200">   <img src="images/Simulation_result.png" height="200">
 
-Find out more below:
-[Link -> Project page](https://stuarthaze.github.io/Quality_Street)  
-Or launch the web app to estimate the most likely distribution:  
-[Link -> App](https://mysterious-falls-98860.herokuapp.com/)
+Find out more:
+[Link -> Project page](https://stuarthaze.github.io/Quality_Street)    
+Or launch the web app to estimate the most likely distribution: [Link -> App](https://mysterious-falls-98860.herokuapp.com/)
