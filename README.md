@@ -3,11 +3,11 @@
 # About me
 ***
 <table cellspacing="0" cellpadding="0">
-<tr>
+  <tr>
     <td> <img src="images/Profile_pic.jpeg" width=200> </td>
     <td>Welcome to my portfolio. This is an eclectic selection of some data science projects that I have been working on, some of which I developed in academia, some adapted from studying machine learning, and others just out of interest.
     </td>
-</tr>
+  </tr>
 </table>
 table {border: none;}
 
