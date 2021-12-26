@@ -2,7 +2,7 @@
 
 # About me
 ***
-<table style="border-collapse: collapse; border: none;">
+<table cellspacing="0" cellpadding="0">
 <tr>
     <td> <img src="images/Profile_pic.jpeg" width=200> </td>
     <td>Welcome to my portfolio. This is an eclectic selection of some data science projects that I have been working on, some of which I developed in academia, some adapted from studying machine learning, and others just out of interest.
