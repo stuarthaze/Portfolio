@@ -3,10 +3,10 @@
 
 # About me
 ***
-<table>
+<table border="0">
 <tr>
     <td>
-<img src="images/Profile_pic.jpeg" width=200>
+<img src="images/Profile_pic.jpeg">
     </td>
     <td>
 Welcome to my portfolio. This is an eclectic selection of some data science projects that I have been working on, some of which I developed in academia, some adapted from studying machine learning, and others just out of interest.
@@ -33,4 +33,4 @@ The app was built using streamlit and allows the user to modify the hyper parame
 [Link -> Project page](https://stuarthaze.github.io/Quality_Street)
 
 Does this distribution represent an expected outcome of randomly selected sweets?  
-<img src="../Quality_Street/Sweet_selection.jpg" height="150">  <img src="images/Simulation_result.png" height="150">
+<img src="../Quality_Street/Sweet_selection.jpg" height="200">   <img src="images/Simulation_result.png" height="200">
