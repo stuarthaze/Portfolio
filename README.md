@@ -3,11 +3,20 @@
 
 # About me
 ***
+<table>
+<tr>
+    <td>
 <img src="images/Profile_pic.jpeg" width=200>
+    </td>
+    <td>
 Welcome to my portfolio. This is an eclectic selection of some data science projects that I have been working on, some of which I developed in academia, some adapted from studying machine learning, and others just out of interest.
+    </td>
+</tr>
+</table>
 
 ***
 # Deep Learning
+***
 ### Neural Style-Transfer App
 [Link -> Github repository](https://github.com/stuarthaze/StyleTransferApp)
 
@@ -18,7 +27,8 @@ This app was based on an assignment in the Coursera deep learning specialization
 The app was built using streamlit and allows the user to modify the hyper parameters such as the ratio of content:style, learning rate and number of training epochs.
  
 ***
-## Statistics
+# Statistics
+***
 ### Sweets selection
 [Link -> Project page](https://stuarthaze.github.io/Quality_Street)
 
