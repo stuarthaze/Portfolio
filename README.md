@@ -1,7 +1,7 @@
 <!-- <img src="images/danger.png" width=200> Danger! Work in progress! -->
 
 # Introduction
-***
+
 <table>
   <tr>
     <td> <img src="images/Profile_pic.jpeg" width=200> </td>
@@ -15,10 +15,10 @@
 # Deep Learning
 ***
 ### Neural Style-Transfer App
-[Link -> Github repository](https://github.com/stuarthaze/StyleTransferApp)
+[Link -> Github repository](https://github.com/stuarthaze/StyleTransferApp)  
 This app was based on an assignment in the Coursera deep learning specialization. It uses a pre-trained VGG-19 convolutional neural network to merge the content of one image with the style of a second image. Gradient descent is used to optimize the pixels of the generated image. 
 
-<img src="images/NeuralArtStyleTransfer.png"> 
+<img src="images/NeuralArtStyleTransfer.png" width=300> 
 
 The app was built using streamlit and allows the user to modify the hyper parameters such as the ratio of content:style, learning rate and number of training epochs.
  
