@@ -26,7 +26,9 @@ The app was built using streamlit and allows the user to modify the hyper parame
 # Statistics
 ***
 ### Sweets selection
-[Link -> Project page](https://stuarthaze.github.io/Quality_Street)
 
 Does this distribution represent an expected outcome of randomly selected sweets?  
 <img src="../Quality_Street/Sweet_selection.jpg" height="200">   <img src="images/Simulation_result.png" height="200">
+
+Find out more below:
+[Link -> Project page](https://stuarthaze.github.io/Quality_Street)
