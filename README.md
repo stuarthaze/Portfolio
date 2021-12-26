@@ -16,10 +16,9 @@
 ***
 ### Neural Style-Transfer App
 [Link -> Github repository](https://github.com/stuarthaze/StyleTransferApp)
+This app was based on an assignment in the Coursera deep learning specialization. It uses a pre-trained VGG-19 convolutional neural network to merge the content of one image with the style of a second image. Gradient descent is used to optimize the pixels of the generated image. 
 
 <img src="images/NeuralArtStyleTransfer.png"> 
-
-This app was based on an assignment in the Coursera deep learning specialization. It uses a pre-trained VGG-19 convolutional neural network to merge the content of one image with the style of a second image. Gradient descent is used to optimize the pixels of the generated image. 
 
 The app was built using streamlit and allows the user to modify the hyper parameters such as the ratio of content:style, learning rate and number of training epochs.
  
