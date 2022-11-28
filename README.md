@@ -1,4 +1,5 @@
-<!-- <img src="images/danger.png" width=200> Danger! Work in progress! -->
+<!-- 
+< img src="images/danger.png" width=200 /> Danger! Work in progress! -->
 
 # Introduction
 
@@ -25,7 +26,7 @@ The app was built using streamlit and allows the user to modify the hyper parame
 ## Sweets selection - [Link](https://stuarthaze.github.io/Quality_Street)
 
 Does this distribution represent an expected outcome of randomly selected sweets?  
-<img src="../Quality_Street/Sweet_selection.jpg" height="200">   <img src="images/Simulation_result.png" height="200">
+<img src="images/Sweet_selection.jpg" height="200">   <img src="images/Simulation_result.png" height="200">
 
 ***
 # Data Engineering
